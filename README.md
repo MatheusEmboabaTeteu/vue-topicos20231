@@ -50,4 +50,5 @@ npm run test:unit
 ```sh
 npm run lint
 ```
+```User admin password admin```
 # vue-topicos20231
